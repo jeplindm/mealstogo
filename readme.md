@@ -1,1 +1,0 @@
-// Meals To Go - React Native
